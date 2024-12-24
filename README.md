@@ -62,4 +62,4 @@ These libraries made it feasible to recognize faces and mark attendance efficien
 
 ---
 
-&copy; 2024 Face Recognition Project
+
